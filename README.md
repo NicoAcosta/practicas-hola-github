@@ -9,3 +9,4 @@ Este es un repo para conocer sobre GitHub!
 - Matias Sesto
 - Miranda Huanca
 - Federico Giunta
+- Marcos Perez
