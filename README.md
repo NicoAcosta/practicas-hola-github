@@ -8,4 +8,5 @@ Este es un repo para conocer sobre GitHub!
 - Rodrigo Pettinato
 - Matias Sesto
 - Miranda Huanca
+- Federico Giunta
 - Zohar Uriel Lopez dos Santos
