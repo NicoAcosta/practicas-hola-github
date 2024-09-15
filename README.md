@@ -10,3 +10,4 @@ Este es un repo para conocer sobre GitHub!
 - Miranda Huanca
 - Federico Giunta
 - Zohar Uriel Lopez dos Santos
+- Sebastian Bueno
