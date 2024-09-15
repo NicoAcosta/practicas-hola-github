@@ -12,3 +12,4 @@ Este es un repo para conocer sobre GitHub!
 - Zohar Uriel Lopez dos Santos
 - Sebastian Bueno
 - Renzo Piris Saporito
+- Marcos Perez
